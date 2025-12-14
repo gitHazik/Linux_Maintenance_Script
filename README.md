@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo contains two simple scripts to speed up and clean your system:
+This repo contains two simple scripts to speed up our system:
 
 * `boost-zorin.sh` – For **Zorin OS Lite** (or any Ubuntu-based Linux)
 * `boost-windows.bat` – For **Windows 10/11**
